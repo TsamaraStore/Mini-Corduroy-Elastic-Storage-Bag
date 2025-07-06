@@ -1,1 +1,1 @@
-# Mini-Corduroy-Elastic-Storage-Bag
+# Mini-Corduroy-Elastic
